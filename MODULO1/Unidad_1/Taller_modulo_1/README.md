@@ -1,6 +1,8 @@
-# Taller Integrador — Análisis de Salud Mundial
+# Taller Módulo 1 — Análisis de Salud Mundial
 
 **Autor:** José Alexander Muñoz Delgado
+
+**Máster:** IA & Data Science — DevSeniorCode
 
 **Repositorio:** https://github.com/joseamd/MasterIa/tree/main/MODULO1/Unidad_1/Taller_modulo_1
 
